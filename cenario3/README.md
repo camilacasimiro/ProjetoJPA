@@ -11,10 +11,10 @@ Professor: Ricardo de Sousa Job
 
 ### Modelo DER
 
-<img src="der.jpeg" width="500" height="250">
+<img src="diagrama-classes.jpeg" width="500" height="250">
 
 
-## EQuipe:
+## Equipe:
 - <a href="https://github.com/camilacasimiro" alt="github">Camila Casimiro</a>
 - <a href="https://github.com/JenniferSilva46" alt="github">Jennifer Silva</a>
 
