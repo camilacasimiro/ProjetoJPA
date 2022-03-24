@@ -11,7 +11,7 @@ Professor: Ricardo de Sousa Job
 
 ### Diagrama de classe
 
-<img src="diagrama-classes.jpeg" width="500" height="500">
+<img src="diagrama-classes.jpeg" width="700" height="700">
 
 
 ## Equipe:
