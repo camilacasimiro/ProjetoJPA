@@ -7,11 +7,11 @@ Processo de Desenvolvimento de Software
 Professor: Ricardo de Sousa Job
 </div>
 
-# Atividade JPA Cenário 3
+# Atividade JPA Cenário 2
 
 ### Diagrama de classe
 
-<img src="diagrama-classes.jpeg" width="500" height="250">
+<img src="diagrama.jpeg" width="500" height="250">
 
 
 ## Equipe:
